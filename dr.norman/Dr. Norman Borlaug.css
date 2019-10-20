@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #eee;
+    font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    width: 550px;
+}
+
+.image {
+    background-color: white;
+    width: 1024px;
+    height: 623px;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    line-height: 1.6;
+}
+
+li {
+    margin-bottom: 16px;
+}
